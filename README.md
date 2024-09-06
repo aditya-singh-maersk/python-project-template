@@ -1,4 +1,4 @@
-
+   
 # Python Project Template
 
 A low dependency and really simple to start project template for Python Projects.
